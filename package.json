@@ -12,6 +12,10 @@
     "json",
     "messages"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeuCxb/request-coders-api.git"
+  },
   "author": "ZeuCxb",
   "license": "ISC",
   "devDependencies": {
