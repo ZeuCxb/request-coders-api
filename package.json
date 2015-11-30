@@ -1,0 +1,23 @@
+{
+  "name": "request-coders-api",
+  "version": "1.0.0",
+  "description": "Api request, json messages",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "request",
+    "json",
+    "messages"
+  ],
+  "author": "ZeuCxb",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5"
+  }
+}
