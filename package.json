@@ -1,6 +1,6 @@
 {
   "name": "request-coders-api",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Api request, json messages",
   "main": "request.js",
   "scripts": {
