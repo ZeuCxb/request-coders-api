@@ -13,7 +13,7 @@ exports.req = function(status, message, data) {
   return r;
 };
 
-exports.json = function(status, message, data, resStatus) {
+exports.json = function(status, message, data, res, resStatus) {
   var r;
   r = {};
   if (status) {

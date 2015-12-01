@@ -9,7 +9,7 @@ exports.req = (status, message, data) ->
 
   return r
 
-exports.json = (status, message, data, resStatus) ->
+exports.json = (status, message, data, res, resStatus) ->
   r = {}
 
   r.status = status if status
